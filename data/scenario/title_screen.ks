@@ -22,7 +22,7 @@
 *start
 [cm  ]
 [stopbgm  ]
-[jump  storage="Opening.ks"  target="*opening" ]
+[jump  storage="opening.ks"  target="*opening" ]
 
 *load
 [cm  ]
